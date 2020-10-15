@@ -167,7 +167,7 @@ body {
 }
 /* END GLOBAL STYLES */
 .todoapp {
-  background: linear-gradient(-120deg, rgba(163, 210, 255, 0.788), rgba(255, 255, 255, .8));
+  background-color: #7bed9f;
   margin: 2rem 0 4rem 0;
   padding: 1rem;
   position: relative;
